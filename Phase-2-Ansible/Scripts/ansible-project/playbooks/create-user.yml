@@ -1,0 +1,11 @@
+---
+- name: Create Linux User
+  hosts: employeeservers
+  become: yes
+
+  tasks:
+    - name: Create employee user
+      ansible.builtin.user:
+        name: employee
+        state: present
+        create_home: yes

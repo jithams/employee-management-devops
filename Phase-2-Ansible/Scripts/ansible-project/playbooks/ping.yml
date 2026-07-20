@@ -1,0 +1,8 @@
+---
+- name: Test Ansible Connectivity
+  hosts: employeeservers
+  become: no
+
+  tasks:
+    - name: Ping Managed Node
+      ansible.builtin.ping:

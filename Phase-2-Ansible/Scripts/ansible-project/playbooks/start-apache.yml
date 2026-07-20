@@ -1,0 +1,11 @@
+---
+- name: Start Apache Service
+  hosts: employeeservers
+  become: yes
+
+  tasks:
+    - name: Enable and Start Apache
+      ansible.builtin.service:
+        name: httpd
+        state: started
+        enabled: yes

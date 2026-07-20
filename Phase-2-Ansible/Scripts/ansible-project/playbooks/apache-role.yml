@@ -1,0 +1,7 @@
+---
+- name: Deploy Apache using Role
+  hosts: employeeservers
+  become: yes
+
+  roles:
+    - apache

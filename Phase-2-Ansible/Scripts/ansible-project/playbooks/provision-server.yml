@@ -1,0 +1,16 @@
+---
+- name: Provision Employee Management Server
+  hosts: employeeservers
+  become: yes
+
+  pre_tasks:
+    - name: Create application directory
+      ansible.builtin.file:
+        path: /opt/employee-management
+        state: directory
+        owner: root
+        group: root
+        mode: '0755'
+
+  roles:
+    - apache

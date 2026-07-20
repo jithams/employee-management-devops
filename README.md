@@ -27,7 +27,7 @@ This project demonstrates the end-to-end implementation of an Employee Managemen
 - Docker
 - Jenkins
 - Nginx
-- Apache
+- Apache HTTP Server
 - MariaDB
 - WordPress
 
@@ -40,9 +40,9 @@ employee-management-devops/
 │
 ├── Phase-1-Linux
 ├── Phase-2-Ansible
-├── Phase-3-Docker
-├── Phase-4-Jenkins
-├── Phase-5-AWS
+├── Phase-3-AWS
+├── Phase-4-Docker
+├── Phase-5-Jenkins
 └── Employee-Management-App
 ```
 
@@ -51,16 +51,20 @@ employee-management-devops/
 ## 🚀 Project Progress
 
 - ✅ Phase 1 - Linux Administration
-- ⏳ Phase 2 - Ansible Automation
-- ⏳ Phase 3 - Docker
-- ⏳ Phase 4 - Jenkins CI/CD
-- ⏳ Phase 5 - AWS Deployment
+- ✅ Phase 2 - Ansible Automation
+- ⏳ Phase 3 - AWS Cloud Infrastructure
+- ⏳ Phase 4 - Docker Containerization
+- ⏳ Phase 5 - Jenkins CI/CD
 
 ---
 
 ## 📸 Project Screenshots
 
-Project screenshots are available inside each phase folder.
+Each phase contains:
+- Documentation
+- Commands
+- Source Code / Scripts
+- Screenshots
 
 ---
 
