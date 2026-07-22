@@ -48,3 +48,7 @@ employee-management-devops/
 ## Git Branching
 
 A feature branch named `feature/readme-update` was created and used to update the project documentation before merging into the main branch.
+
+## GitHub Collaboration
+
+This branch demonstrates GitHub collaboration using feature branches and Pull Requests.
