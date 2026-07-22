@@ -2,17 +2,16 @@
 
 ## 📌 Project Overview
 
-This project demonstrates the end-to-end implementation of an Employee Management Portal using modern DevOps practices. The project covers Linux Administration, Ansible Automation, Docker Containerization, Jenkins CI/CD, AWS Cloud Deployment, Monitoring, and Infrastructure Automation.
+This project demonstrates the implementation of an Employee Management Portal using modern DevOps and AWS Cloud practices. The project covers Linux Administration, Ansible Automation, AWS Infrastructure, Version Control, Collaboration, and upcoming DevOps tools.
 
 ---
 
 ## 🎯 Objectives
 
 - Build a production-ready DevOps environment.
-- Automate infrastructure and application deployment.
-- Implement CI/CD pipelines.
-- Deploy applications on AWS.
-- Monitor and maintain infrastructure.
+- Automate infrastructure deployment.
+- Implement version control and collaboration using Git and GitHub.
+- Deploy infrastructure on AWS.
 - Follow DevOps best practices.
 
 ---
@@ -21,15 +20,17 @@ This project demonstrates the end-to-end implementation of an Employee Managemen
 
 - Linux (Amazon Linux 2023)
 - AWS EC2
-- Git & GitHub
+- AWS VPC
+- AWS IAM
+- AWS S3
+- AWS CloudWatch
+- AWS Auto Scaling
+- AWS Application Load Balancer
+- AWS Backup
+- Git
+- GitHub
 - Shell Scripting
 - Ansible
-- Docker
-- Jenkins
-- Nginx
-- Apache HTTP Server
-- MariaDB
-- WordPress
 
 ---
 
@@ -41,33 +42,13 @@ employee-management-devops/
 ├── Phase-1-Linux
 ├── Phase-2-Ansible
 ├── Phase-3-AWS
-├── Phase-4-Docker
-├── Phase-5-Jenkins
+├── Phase-4-Version-Control
 └── Employee-Management-App
-```
 
----
+## Git Branching
 
-## 🚀 Project Progress
+A feature branch named `feature/readme-update` was created and used to update the project documentation before merging into the main branch.
 
-- ✅ Phase 1 - Linux Administration
-- ✅ Phase 2 - Ansible Automation
-- ⏳ Phase 3 - AWS Cloud Infrastructure
-- ⏳ Phase 4 - Docker Containerization
-- ⏳ Phase 5 - Jenkins CI/CD
+## GitHub Collaboration
 
----
-
-## 📸 Project Screenshots
-
-Each phase contains:
-- Documentation
-- Commands
-- Source Code / Scripts
-- Screenshots
-
----
-
-## 👩‍💻 Author
-
-**Jitha M S**
+This branch demonstrates GitHub collaboration using feature branches and Pull Requests.
