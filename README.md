@@ -20,12 +20,13 @@ This project demonstrates the implementation of an Employee Management Portal us
 
 - Linux (Amazon Linux 2023)
 - AWS EC2
-- AWS VPC
 - AWS IAM
+- AWS VPC
 - AWS S3
-- AWS CloudWatch
 - AWS Auto Scaling
-- AWS Application Load Balancer
+- AWS Application Load Balancer (ALB)
+- AWS CloudWatch
+- AWS SNS
 - AWS Backup
 - Git
 - GitHub
@@ -44,11 +45,90 @@ employee-management-devops/
 ├── Phase-3-AWS
 ├── Phase-4-Version-Control
 └── Employee-Management-App
+```
 
-## Git Branching
+---
 
-A feature branch named `feature/readme-update` was created and used to update the project documentation before merging into the main branch.
+## 🚀 Project Progress
 
-## GitHub Collaboration
+- ✅ Phase 1 – Linux Administration
+- ✅ Phase 2 – Ansible Automation
+- ✅ Phase 3 – AWS Cloud Infrastructure
+- ✅ Phase 4 – Version Control and Collaboration
 
-This branch demonstrates GitHub collaboration using feature branches and Pull Requests.
+---
+
+## 📋 Phase Summary
+
+### ✅ Phase 1 – Linux Administration
+- Linux Server Administration
+- User and Group Management
+- File Permissions
+- Package Management
+- Apache & Nginx Configuration
+- Shell Scripting
+
+### ✅ Phase 2 – Ansible Automation
+- Ansible Installation
+- Inventory Configuration
+- Playbook Creation
+- Role-based Automation
+- Web Server Provisioning
+- Application Deployment
+
+### ✅ Phase 3 – AWS Cloud Infrastructure
+- IAM Users and Policies
+- VPC Configuration
+- Public & Private Subnets
+- Internet Gateway
+- NAT Gateway
+- EC2 Instances
+- Security Groups
+- Application Load Balancer
+- Auto Scaling
+- CloudWatch Monitoring
+- SNS Notifications
+- AWS Backup
+- Cost Optimization
+
+### ✅ Phase 4 – Version Control and Collaboration
+- Git Repository Management
+- Git Branching
+- Branch Switching
+- Branch Merging
+- Branch Deletion
+- GitHub Collaboration
+- Pull Requests
+- Merge Requests
+- Merge Conflict Resolution
+- Git Tags
+- GitHub Releases
+- .gitignore Configuration
+
+---
+
+## 📸 Project Documentation
+
+Each phase contains:
+
+- Documentation
+- Commands
+- Configuration Files
+- Source Code / Scripts
+- Screenshots
+
+---
+
+## 🔖 Version
+
+Current Release:
+
+**v1.0**
+
+---
+
+## 👩‍💻 Author
+
+**Jitha M S**
+
+MCA Graduate | Server Administrator Trainee | AWS | Linux | DevOps | Ansible | Git | GitHub
