@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project demonstrates the implementation of an Employee Management Portal using modern DevOps and AWS Cloud practices. The project covers Linux Administration, Ansible Automation, AWS Infrastructure, Version Control, Collaboration, and upcoming DevOps tools.
+This project demonstrates the implementation of an Employee Management Portal using modern DevOps practices and AWS Cloud services. The project covers Linux Administration, Ansible Automation, AWS Infrastructure, Version Control, Collaboration, and CI/CD implementation using Jenkins.
 
 ---
 
@@ -12,6 +12,7 @@ This project demonstrates the implementation of an Employee Management Portal us
 - Automate infrastructure deployment.
 - Implement version control and collaboration using Git and GitHub.
 - Deploy infrastructure on AWS.
+- Build CI/CD pipelines using Jenkins.
 - Follow DevOps best practices.
 
 ---
@@ -30,6 +31,7 @@ This project demonstrates the implementation of an Employee Management Portal us
 - AWS Backup
 - Git
 - GitHub
+- Jenkins
 - Shell Scripting
 - Ansible
 
@@ -42,8 +44,9 @@ employee-management-devops/
 │
 ├── Phase-1-Linux
 ├── Phase-2-Ansible
-├── Phase-3-AWS
+├── Phase-3-AWS-Infrastructure
 ├── Phase-4-Version-Control
+├── Phase-5-CI-CD
 └── Employee-Management-App
 ```
 
@@ -55,12 +58,14 @@ employee-management-devops/
 - ✅ Phase 2 – Ansible Automation
 - ✅ Phase 3 – AWS Cloud Infrastructure
 - ✅ Phase 4 – Version Control and Collaboration
+- 🚀 Phase 5 – CI/CD Implementation (In Progress)
 
 ---
 
 ## 📋 Phase Summary
 
 ### ✅ Phase 1 – Linux Administration
+
 - Linux Server Administration
 - User and Group Management
 - File Permissions
@@ -69,6 +74,7 @@ employee-management-devops/
 - Shell Scripting
 
 ### ✅ Phase 2 – Ansible Automation
+
 - Ansible Installation
 - Inventory Configuration
 - Playbook Creation
@@ -77,6 +83,7 @@ employee-management-devops/
 - Application Deployment
 
 ### ✅ Phase 3 – AWS Cloud Infrastructure
+
 - IAM Users and Policies
 - VPC Configuration
 - Public & Private Subnets
@@ -92,6 +99,7 @@ employee-management-devops/
 - Cost Optimization
 
 ### ✅ Phase 4 – Version Control and Collaboration
+
 - Git Repository Management
 - Git Branching
 - Branch Switching
@@ -99,11 +107,19 @@ employee-management-devops/
 - Branch Deletion
 - GitHub Collaboration
 - Pull Requests
-- Merge Requests
 - Merge Conflict Resolution
 - Git Tags
 - GitHub Releases
 - .gitignore Configuration
+
+### 🚀 Phase 5 – CI/CD Implementation (In Progress)
+
+- Jenkins Installation
+- Automated Build Pipeline
+- Automated Testing
+- Automated Deployment
+- GitHub Webhook Integration
+- Rollback Strategy
 
 ---
 
@@ -130,5 +146,3 @@ Current Release:
 ## 👩‍💻 Author
 
 **Jitha M S**
-
-MCA Graduate | Server Administrator Trainee | AWS | Linux | DevOps | Ansible | Git | GitHub
