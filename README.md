@@ -32,6 +32,7 @@ This project demonstrates the implementation of an Employee Management Portal us
 - Git
 - GitHub
 - Jenkins
+- Apache HTTP Server
 - Shell Scripting
 - Ansible
 
@@ -58,7 +59,7 @@ employee-management-devops/
 - ✅ Phase 2 – Ansible Automation
 - ✅ Phase 3 – AWS Cloud Infrastructure
 - ✅ Phase 4 – Version Control and Collaboration
-- 🚀 Phase 5 – CI/CD Implementation (In Progress)
+- ✅ Phase 5 – CI/CD Implementation
 
 ---
 
@@ -73,6 +74,8 @@ employee-management-devops/
 - Apache & Nginx Configuration
 - Shell Scripting
 
+---
+
 ### ✅ Phase 2 – Ansible Automation
 
 - Ansible Installation
@@ -81,6 +84,8 @@ employee-management-devops/
 - Role-based Automation
 - Web Server Provisioning
 - Application Deployment
+
+---
 
 ### ✅ Phase 3 – AWS Cloud Infrastructure
 
@@ -98,6 +103,8 @@ employee-management-devops/
 - AWS Backup
 - Cost Optimization
 
+---
+
 ### ✅ Phase 4 – Version Control and Collaboration
 
 - Git Repository Management
@@ -112,14 +119,17 @@ employee-management-devops/
 - GitHub Releases
 - .gitignore Configuration
 
-### 🚀 Phase 5 – CI/CD Implementation (In Progress)
+---
 
-- Jenkins Installation
-- Automated Build Pipeline
+### ✅ Phase 5 – CI/CD Implementation
+
+- Jenkins Installation and Configuration
+- GitHub Repository Integration
+- Automated Build Process
 - Automated Testing
 - Automated Deployment
-- GitHub Webhook Integration
-- Rollback Strategy
+- Application Deployment using Apache HTTP Server
+- Rollback Strategy Implementation
 
 ---
 
@@ -128,21 +138,20 @@ employee-management-devops/
 Each phase contains:
 
 - Documentation
-- Commands
 - Configuration Files
-- Source Code / Scripts
+- Shell Scripts
+- Commands
 - Screenshots
+- Source Code
 
 ---
 
 ## 🔖 Version
 
-Current Release:
-
-**v1.0**
+**Current Release:** `v1.0`
 
 ---
 
-## 👩‍💻 Author
+## 👤 Author
 
 **Jitha M S**
