@@ -1,0 +1,9 @@
+version: "3.8"
+
+services:
+  employee-management:
+    image: employee-management:v1
+    container_name: employee-management-compose
+    ports:
+      - "8082:80"
+    restart: unless-stopped
